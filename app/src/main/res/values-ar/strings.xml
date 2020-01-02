@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ثمن المنتج</string>
+    <string name="etTitrePrixProduit">حساب سعر شراء منتج ما عدا الضريبة وجميع الضرائب المشمولة</string>
+    <string name="etPrix">ثمن المنتج</string>
+    <string name="prix">0</string>
+    <string name="etNombreProduit">عدد المنتجات المطلوبة</string>
+    <string name="nombreProduit">1</string>
+    <string name="etTVA">ضريبة القيمة المضافة</string>
+    <string name="tva">0.18</string>
+    <string name="buttonPrixTotal">الثمن الاجمالي</string>
+    <string name="buttonAnnuler">إلغاء</string>
+    <string name="etResultatPrixHT">السعر باستثناء الضريبة:</string>
+    <string name="etResultatPrixTTC">السعر الإجمالي شاملاً الضريبة:</string>
+
+    <string name="errMsg1">المرجو ادخال ثمن و عدد المنتجات المطلوبة</string>
+    <string name="errMsg2">المرجو ادخال عدد المنتجات المطلوبة</string>
+    <string name="errMsg3">المرجو ادخال ثمن المنتج المطلوب</string>
+
+    <string name="tvaErrMsg">يجب على ضريبة القيمة المضافة ان تكون بين 1 و 0</string>
+    <string name="prixProduitErrMsg">يجب على الثمن ان يكون اكبر من الصفر</string>
+
+</resources>

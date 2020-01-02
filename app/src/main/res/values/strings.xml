@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Prix d\'un Produit</string>
+    <string name="etTitrePrixProduit">calcul du prix d\'achat d\'un produit hors taxe et toute taxe comprise</string>
+    <string name="etPrix">Prix du Produit</string>
+    <string name="prix">0</string>
+    <string name="etNombreProduit">Nombre de produit commandé</string>
+    <string name="nombreProduit">1</string>
+    <string name="etTVA">TVA</string>
+    <string name="tva">0.18</string>
+    <string name="buttonPrixTotal">PRIX TOTAL</string>
+    <string name="buttonAnnuler">ANNULER</string>
+    <string name="etResultatPrixHT">Prix hors taxe :</string>
+    <string name="etResultatPrixTTC">Prix total taxe comprise :</string>
+
+    <string name="errMsg1">S\'il vous plaît Entrer le prix et le nombre de produit commandé</string>
+    <string name="errMsg2">S\'il vous plaît Entrer le nombre de produit commandé</string>
+    <string name="errMsg3">S\'il vous plaît Entrer le prix produit commandé</string>
+
+    <string name="tvaErrMsg">Tva doit être entre 0 et 1</string>
+    <string name="prixProduitErrMsg">le prix doit être supérieur à 0</string>
+</resources>

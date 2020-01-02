@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Product Price</string>
+    <string name="etTitrePrixProduit">calculation of the purchase price of a product excluding tax and all tax included</string>
+    <string name="etPrix">Product price</string>
+    <string name="prix">0</string>
+    <string name="etNombreProduit">Number of products ordered</string>
+    <string name="nombreProduit">1</string>
+    <string name="etTVA">Tax</string>
+    <string name="tva">0.18</string>
+    <string name="buttonPrixTotal">Total price</string>
+    <string name="buttonAnnuler">CANCEL</string>
+    <string name="etResultatPrixHT">Price excluding tax :</string>
+    <string name="etResultatPrixTTC">Total price including tax :</string>
+
+    <string name="errMsg1">Please enter the price and the number of products ordered</string>
+    <string name="errMsg2">Please enter the number of products ordered</string>
+    <string name="errMsg3">Please enter price of the product ordered</string>
+
+    <string name="tvaErrMsg">Tva needs to between 0 and 1</string>
+    <string name="prixProduitErrMsg">the price needs to be greater than 0</string>
+</resources>
