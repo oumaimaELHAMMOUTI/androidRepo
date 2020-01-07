@@ -1,4 +1,4 @@
-package com.ezziani.mohamed.prixproduit;
+package com.elhammouti.oumaima.prixproduit;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,9 +9,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import java.io.IOException;
-
-public class MainActivity extends AppCompatActivity {
+public class PrixProduitActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,7 +34,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                double prixProduit, tva;
+                double prixProduit ;
+                double tva;
                 final int nbProduit;
 
                 if(prix.getText().toString().isEmpty() && nombreProduit.getText().toString().isEmpty()) {

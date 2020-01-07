@@ -1,4 +1,4 @@
-package com.ezziani.mohamed.prixproduit;
+package com.elhammouti.oumaima.prixproduit;
 
 import org.junit.Test;
 
